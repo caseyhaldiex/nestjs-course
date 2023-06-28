@@ -28,6 +28,14 @@
 
 ## Installation
 
+## Create env.development with the following:
+DB_NAME=db.sqlite
+COOKIE_KEY=asdasdasd
+
+## Create env.test with the following:
+DB_NAME=test.sqlite
+COOKIE_KEY=asdasdasd
+
 ```bash
 $ npm install
 ```
